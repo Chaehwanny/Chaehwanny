@@ -1,18 +1,23 @@
-## Hi! Nice to meet you.
+### Hi! Nice to meet you. I'm Chaehwan Yeo 👋
 
-I'm Chaehwan yeo
+I'm a graduate student in University of Seoul interested in Applied AI, AI Agents, and reliable AI systems.
 
-<!--
-**Chaehwanny/Chaehwanny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy exploring how AI systems work in practice, analyzing why they fail, and building better ways to evaluate and improve them.
 
-Here are some ideas to get you started:
+🔭 Currently
+Finishing and documenting my research on Vision-Language Model (VLM) evaluation
+Exploring AI agents and agentic software engineering
+Building my software engineering and open-source development experience
+🧠 Interests
+Applied AI
+AI Agents
+LLM / VLM Evaluation
+AI Reliability & Failure Analysis
+Agentic Software Engineering
+Open Source
+🛠️ Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python · Git · Docker · Linux · PyTorch
+
+Thanks for visiting!
+More projects and research will be added soon.
