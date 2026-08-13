@@ -4,18 +4,20 @@ I'm a graduate student in University of Seoul interested in Applied AI, AI Agent
 
 I enjoy exploring how AI systems work in practice, analyzing why they fail, and building better ways to evaluate and improve them.
 
-🔭 Currently
+#### 🔭 Currently
 Finishing and documenting my research on Vision-Language Model (VLM) evaluation
 Exploring AI agents and agentic software engineering
 Building my software engineering and open-source development experience
-🧠 Interests
+
+#### 🧠 Interests
 Applied AI
 AI Agents
 LLM / VLM Evaluation
 AI Reliability & Failure Analysis
 Agentic Software Engineering
 Open Source
-🛠️ Tech
+
+#### 🛠️ Tech
 
 Python · Git · Docker · Linux · PyTorch
 
